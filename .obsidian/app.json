@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-pink-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-text-dt",
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--text-normal)",
+  "Willemstad-Core@@col-palette": "cp-exobs-nord",
+  "Willemstad-Core@@font-pairings": "fp-inter",
+  "Willemstad-Core@@true-black": false,
+  "Willemstad-Adv-Settings@@readme-adv-settings": true
+}

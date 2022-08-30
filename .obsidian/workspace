@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d2386b7376d5ae51",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b302cf55e46c97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lori Vallow.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2a07cde8c2c6164",
+    "type": "split",
+    "children": [
+      {
+        "id": "a10c5056d325514a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4ae0ba6d3a511f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "111a30bcbfc243f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeb1702b8929c6df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4cf8754033b7ad1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "341a22b67ae546db",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d102a767e3a7e3e",
+        "type": "tabs",
+        "dimension": 56.094182825484765,
+        "children": [
+          {
+            "id": "35cb63f060e2628e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "831b86d3c3a31dc9",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c288f15c48e28c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0c7d9940baf9f91b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1ec5c7ef2b5ecde7",
+        "type": "tabs",
+        "dimension": 43.905817174515235,
+        "children": [
+          {
+            "id": "462caf1bbad62e0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lori Vallow.md"
+              }
+            }
+          },
+          {
+            "id": "f38ee66cf082fd46",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b6bf1fb1fb3e2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lori Vallow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2e29057d0c371091",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lori Vallow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "22b302cf55e46c97",
+  "lastOpenFiles": [
+    "MA-possible-suspect.md",
+    "Marinara Sauce.md",
+    "Maps of Content.md",
+    "Lying Definitions.md",
+    "True Crime Index.md",
+    "050 Topics.md",
+    "🏡000-Home.md",
+    "Add copy Button in Obsidian.md",
+    "A New Way To Think.md",
+    "2022-04-22 EWC Minutes.md"
+  ]
+}

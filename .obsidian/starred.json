@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "🏡000-Home",
+      "path": "🏡000-Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Data View",
+      "path": "Data View.md"
+    }
+  ]
+}
